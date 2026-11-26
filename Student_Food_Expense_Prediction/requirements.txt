@@ -1,0 +1,8 @@
+# Student Daily Food Expense Prediction System
+# Install with: python -m pip install -r requirements.txt
+
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+openpyxl>=3.1
