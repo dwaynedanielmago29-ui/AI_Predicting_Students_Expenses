@@ -1,0 +1,1 @@
+@echo off\ncd /d "%~dp0"\npy -m pip install -r requirements.txt\npy main.py\n pause\n
